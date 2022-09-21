@@ -1,6 +1,6 @@
 export var data = [
   {
-    name: "Property One",
+    name: "Cascade South",
     type: "House",
     price: 2050,
     address: "lane one,street one",
@@ -11,7 +11,7 @@ export var data = [
     image: "./estate/estate1.jpg",
   },
   {
-    name: "Property Two",
+    name: "Citylife Homes",
     type: "Hotel",
     price: 1800,
     address: "lane two,street two",
@@ -22,7 +22,7 @@ export var data = [
     image: "./estate/estate2.jpg",
   },
   {
-    name: "Property Three",
+    name: "Keyhole Nest",
     type: "House",
     price: 1600,
     address: "lane Three,street Three",
@@ -33,7 +33,7 @@ export var data = [
     image: "./estate/estate3.jpg",
   },
   {
-    name: "Property Four",
+    name: "Imperial Realty",
     type: "Resort",
     price: 3200,
     address: "lane Four,street Four",
@@ -44,7 +44,7 @@ export var data = [
     image: "./estate/estate4.jpg",
   },
   {
-    name: "Property Five",
+    name: "Granite Marvel",
     type: "Resort",
     price: 3600,
     address: "lane Five,street Five",
@@ -55,7 +55,7 @@ export var data = [
     image: "./estate/estate5.jpg",
   },
   {
-    name: "Property Six",
+    name: "Castello",
     type: "Hotel",
     price: 2800,
     address: "lane Six,street Six",
@@ -66,7 +66,7 @@ export var data = [
     image: "./estate/estate6.jpg",
   },
   {
-    name: "Property Seven",
+    name: "Hungry Den",
     type: "Hotel",
     price: 1200,
     address: "lane Seven,street Seven",
@@ -77,7 +77,7 @@ export var data = [
     image: "./estate/estate7.jpg",
   },
   {
-    name: "Property Eight",
+    name: "Honor Medal",
     type: "House",
     price: 2100,
     address: "lane Eight,street Eight",
@@ -88,7 +88,7 @@ export var data = [
     image: "./estate/estate8.jpg",
   },
   {
-    name: "Property Nine",
+    name: "Sunshine peak",
     type: "House",
     price: 3300,
     address: "lane Nine,street Nine",
@@ -99,7 +99,7 @@ export var data = [
     image: "./estate/estate9.jpg",
   },
   {
-    name: "Property Ten",
+    name: "Oak Castle",
     type: "Resort",
     price: 2250,
     address: "lane Ten,street Ten",
@@ -111,7 +111,7 @@ export var data = [
   },
 
   {
-    name: "Property Eleven",
+    name: "Sterling one",
     type: "Hotel",
     price: 4100,
     address: "lane Eleven,street Eleven",
@@ -122,7 +122,7 @@ export var data = [
     image: "./estate/estate11.jpg",
   },
   {
-    name: "Property Twelve",
+    name: "Urban Castle",
     type: "Hotel",
     price: 4500,
     address: "lane Twelve,street Twelve",
@@ -133,7 +133,7 @@ export var data = [
     image: "./estate/estate12.jpg",
   },
   {
-    name: "Property Thirteen",
+    name: "Cement City",
     type: "House",
     price: 1300,
     address: "lane Thirteen,street Thirteen",
@@ -144,7 +144,7 @@ export var data = [
     image: "./estate/estate13.jpg",
   },
   {
-    name: "Property Fourteen",
+    name: "Soho Bytes",
     type: "House",
     price: 1700,
     address: "lane Fourteen,street Fourteen",
@@ -155,7 +155,7 @@ export var data = [
     image: "./estate/estate14.jpg",
   },
   {
-    name: "Property Fifteen",
+    name: "Luxury Abodes",
     type: "Resort",
     price: 4200,
     address: "lane Fifteen,street Fifteen",
@@ -166,7 +166,7 @@ export var data = [
     image: "./estate/estate15.jpg",
   },
   {
-    name: "Property Sixteen",
+    name: "Vintage Boom",
     type: "House",
     price: 4800,
     address: "lane sixteen,street sixteen",
@@ -177,7 +177,7 @@ export var data = [
     image: "./estate/estate16.jpg",
   },
   {
-    name: "Property Seventeen",
+    name: "Bahamas Hotel",
     type: "Hotel",
     price: 3900,
     address: "lane seventeen,street seventeen",
@@ -188,7 +188,7 @@ export var data = [
     image: "./estate/estate17.jpg",
   },
   {
-    name: "Property Eighteen",
+    name: "Nighmare Hell",
     type: "Hotel",
     price: 3750,
     address: "lane eighteen,street eighteen",
@@ -199,7 +199,7 @@ export var data = [
     image: "./estate/estate18.jpg",
   },
   {
-    name: "Property Nineteen",
+    name: "Villain Den",
     type: "Resort",
     price: 2400,
     address: "lane nineteen,street nineteen",
@@ -210,7 +210,7 @@ export var data = [
     image: "./estate/estate1.jpg",
   },
   {
-    name: "Property Twenty",
+    name: "World One",
     type: "House",
     price: 2050,
     address: "lane twenty,street twenty",
