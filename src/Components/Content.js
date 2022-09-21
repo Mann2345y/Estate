@@ -175,7 +175,6 @@ const Content = () => {
     let newDataArray = [];
     if (Object.keys(data).length > 0) {
       for (let i = 0; i < data.length; i++) {
-        console.log(data[0].bookedFrom);
         if (
           new Date(data[i].bookedFrom).getDate() < dateobject.getDate() &&
           new Date(data[i].bookedTo).getDate() > dateobject.getDate()
